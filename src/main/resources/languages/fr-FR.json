@@ -42,7 +42,6 @@
         "router_error": "[Dispatch] Impossible d'attacher le routeur."
       },
       "status": {
-        "free_software": "Grasscutter est un logiciel GRATUIT. Si vous avez payé pour ce logiciel, vous avez peut-être été arnaqué. Page d'accueil : https://github.com/Grasscutters/Grasscutter",
         "starting": "Démarrage de Grasscutter...",
         "shutdown": "Arrêt en cours...",
         "done": "Terminé ! Pour obtenir de l'aide, écrire \"help\"",
