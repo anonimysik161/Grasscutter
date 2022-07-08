@@ -42,7 +42,6 @@
       "router_error": "[Dispatch] Unable to attach router."
     },
     "status": {
-      "free_software": "Grasscutter является БЕСПЛАТНЫМ программным обеспечением. Если вы заплатили за него деньги, то вас обманули. Домашняя страница проекта: https://github.com/Grasscutters/Grasscutter",
       "starting": "Запускаем Grasscutter...",
       "shutdown": "Отключаемся...",
       "done": "Готово! Для получения помощи, введите \"help\"",
