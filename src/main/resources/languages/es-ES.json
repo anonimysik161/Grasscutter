@@ -42,7 +42,6 @@
       "router_error": "[Dispatch] No se ha podido vincular el router."
     },
     "status": {
-      "free_software": "Grasscutter es software GRATUITO. Si has pagado por esto, puede que hayas sido estafado. Página del proyecto: https://github.com/Grasscutters/Grasscutter",
       "starting": "Iniciando Grasscutter...",
       "shutdown": "Finalizando...",
       "done": "¡Hecho! Para ayuda, escribe \"help\"",
